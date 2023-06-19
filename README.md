@@ -14,6 +14,4 @@ Input/output
 <br>
 I had a lot of fun creating this game, and I learned a lot about Python in the process. If you're interested in learning more about Python, I encourage you to check out the game.
 <br>
-Call to action:
-<br>
-The code for the game is available on my GitHub repository. If you're interested in checking it out, you can find the link in my bio.
+
